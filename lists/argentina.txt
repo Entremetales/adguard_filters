@@ -1,9 +1,30 @@
 ! Title: Lista Argentina Personal
 ! Description: Bloqueo de publicidad para sitios argentinos
 ! Homepage: https://github.com/TU-USUARIO/adguard-filters
+! License: MIT
 ! Version: 1.0
 ! Last modified: 2024-08-02
+! Expires: 1 day (update frequency)
+! Entries: ~50
 !
+! === MEDIOS ARGENTINOS ===
 ||infobae.com/advertisement/
+||infobae.com/ads/
 ||clarin.com/ads/
 ||lanacion.com.ar/advertisement/
+||perfil.com/ads/
+||ambito.com/ads/
+||cronista.com/advertisement/
+||minutouno.com/ads/
+||tycsports.com/ads/
+!
+! === E-COMMERCE ===
+||mercadolibre.com.ar/jms/
+||fravega.com/analytics/
+||garbarino.com/tracking/
+!
+! === TRACKERS GENERALES ===
+||google-analytics.com^
+||googletagmanager.com^
+||facebook.com/tr/
+||hotjar.com^
