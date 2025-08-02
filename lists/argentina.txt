@@ -1,0 +1,9 @@
+! Title: Lista Argentina Personal
+! Description: Bloqueo de publicidad para sitios argentinos
+! Homepage: https://github.com/TU-USUARIO/adguard-filters
+! Version: 1.0
+! Last modified: 2024-08-02
+!
+||infobae.com/advertisement/
+||clarin.com/ads/
+||lanacion.com.ar/advertisement/
