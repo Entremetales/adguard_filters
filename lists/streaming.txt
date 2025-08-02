@@ -1,0 +1,18 @@
+! Title: Streaming Video Ads
+! Description: Bloqueo de publicidad en plataformas de video
+! Version: 1.0
+! Last modified: 2024-08-02
+!
+! === YOUTUBE ===
+||googlevideo.com/videoplayback*&gcr=*
+||youtube.com/get_video_info*
+||youtube.com/ptracking*
+!
+! === TWITCH ===
+||ttvnw.net/v1/segment/
+||twitch.tv/api/channels/*/commercial
+!
+! === GENERAL VIDEO ADS ===
+||doubleclick.net^
+||googleadservices.com^
+||googlesyndication.com^
