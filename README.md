@@ -31,3 +31,20 @@ Listas personalizadas de bloqueo para AdGuard Home enfocadas en contenido argent
 5. Guarda y actualiza
 
 ### URLs directas:
+https://raw.githubusercontent.com/Entremetales/adguard-filters/main/lists/argentina.txt
+https://raw.githubusercontent.com/Entremetales/adguard-filters/main/lists/streaming.txt
+https://raw.githubusercontent.com/Entremetales/adguard-filters/main/lists/social-media.txt
+
+## 📊 Estadísticas
+- **Dominios bloqueados:** ~200
+- **Última actualización:** 2024-08-02
+- **Frecuencia de actualización:** Semanal
+
+## 🤝 Contribuir
+Si encuentras sitios que deberían estar bloqueados o reglas que causan problemas:
+1. Abre un Issue
+2. Envía un Pull Request
+3. Contáctame por [método de contacto]
+
+## 📄 Licencia
+MIT License - Libre para usar y modificar
