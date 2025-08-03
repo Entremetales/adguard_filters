@@ -1,7 +1,16 @@
-Lista Expandida de Sitios Web de IA
+! Title: Lista Paginas IA 
+! Description: Bloqueo de  sitios IA
+! Homepage: https://github.com/entremetales/adguard_filters
+! License: MIT
+! Version: 1.0
+! Last modified: 2024-08-02
+! Expires: 1 day (update frequency)
+! Entries: ~50
+!
+! === Lista Expandida de Sitios Web de IA ===
 
-Chatbots y Asistentes Virtuales
----
+! Chatbots y Asistentes Virtuales
+
 chat.openai.com
 claude.ai
 gemini.google.com
@@ -23,8 +32,8 @@ intercom.com
 drift.com
 zendesk.com
 
-Motores de Búsqueda y Asistentes de Investigación
----
+! Motores de Búsqueda y Asistentes de Investigación
+
 perplexity.ai
 you.com
 phind.com
@@ -46,8 +55,8 @@ explainpaper.com
 scholarai.io
 researchgate.net
 
-Generación de Imágenes y Arte con IA
----
+! Generación de Imágenes y Arte con IA
+
 midjourney.com
 stability.ai
 leonardo.ai
@@ -84,8 +93,8 @@ pollinations.ai
 artguru.ai
 dreamlike.art
 
-Edición de Imágenes y Mejora con IA
----
+! Edición de Imágenes y Mejora con IA
+
 remove.bg
 cleanup.pictures
 upscale.media
@@ -109,8 +118,8 @@ clipping-magic.com
 slazzer.com
 unscreen.com
 
-Generación de Video y Animación con IA
----
+! Generación de Video y Animación con IA
+
 runway.ml
 synthesia.io
 heygen.com
@@ -132,8 +141,8 @@ designs.ai
 animaker.com
 renderforest.com
 
-Generación de Audio y Voz con IA
----
+! Generación de Audio y Voz con IA
+
 suno.ai
 elevenlabs.io
 murf.ai
@@ -153,8 +162,8 @@ wellsaidlabs.com
 replica-studios.com
 respeecher.com
 
-Herramientas de Escritura y Contenido con IA
----
+! Herramientas de Escritura y Contenido con IA
+
 notion.ai
 grammarly.com
 copy.ai
@@ -178,8 +187,8 @@ writer.com
 textcortex.com
 wordtune.com
 
-Herramientas de Transcripción y Resumen de Audio/Video
----
+! Herramientas de Transcripción y Resumen de Audio/Video
+
 speechify.com
 otter.ai
 fireflies.ai
@@ -201,8 +210,8 @@ ava.me
 live-transcribe.com
 transcribe.wreally.com
 
-Desarrollo de Software y Herramientas para Desarrolladores (IA)
----
+! Desarrollo de Software y Herramientas para Desarrolladores (IA)
+
 github.com
 codeium.com
 tabnine.com
@@ -229,8 +238,8 @@ blackbox.ai
 mintlify.com
 whisperer.dev
 
-Plataformas de Modelos y MLOps
----
+! Plataformas de Modelos y MLOps
+
 huggingface.co
 replicate.com
 weights-biases.com
@@ -263,8 +272,9 @@ cerebrium.ai
 inferless.com
 truss.baseten.co
 
-Herramientas de Automatización e Integración (IA)
----
+! Herramientas de Automatización e Integración (IA)
+
+
 n8n.io
 zapier.com
 make.com
@@ -287,8 +297,8 @@ integromat.com
 pipedream.com
 workflow.google.com
 
-Cuadernos y Plataformas de Desarrollo de ML/Data Science
----
+! Cuadernos y Plataformas de Desarrollo de ML/Data Science
+
 jupyter.org
 colab.research.google.com
 kaggle.com
@@ -310,8 +320,8 @@ beaker.org
 cocalc.com
 datalore.jetbrains.com
 
-Plataformas y Servicios de IA Empresarial / Nube
----
+! Plataformas y Servicios de IA Empresarial / Nube
+
 clarifai.com
 aws.amazon.com
 azure.microsoft.com
@@ -344,8 +354,8 @@ snowflake.com
 oracle.com
 sap.com
 
-Compañías Líderes en Investigación y Desarrollo de IA
----
+! Compañías Líderes en Investigación y Desarrollo de IA
+
 openai.com
 deepmind.google
 ai.google
@@ -367,8 +377,8 @@ synthesia.io
 replicate.com
 huggingface.co
 
-Presentaciones y Diapositivas con IA
----
+! Presentaciones y Diapositivas con IA
+
 tome.app
 gamma.app
 beautiful.ai
@@ -385,8 +395,8 @@ genially.com
 mentimeter.com
 slido.com
 
-Diseño UI/UX y Prototipado (Asistido por IA)
----
+! Diseño UI/UX y Prototipado (Asistido por IA)
+
 ui.dev
 uilabs.dev
 galileo.ai
@@ -419,8 +429,8 @@ figma.com
 sketch.com
 adobe.com
 
-Herramientas No-Code / Low-Code (con capacidades de IA)
----
+! Herramientas No-Code / Low-Code (con capacidades de IA)
+
 bubble.io
 adalo.com
 glide.com
@@ -443,8 +453,8 @@ webflow.com
 squarespace.com
 wix.com
 
-Herramientas de Colaboración y Gestión de Proyectos (con IA)
----
+! Herramientas de Colaboración y Gestión de Proyectos (con IA)
+
 lucidchart.com
 draw.io
 whimsical.com
@@ -470,8 +480,8 @@ slack.com
 microsoft.com
 zoom.us
 
-Herramientas para la Gestión del Conocimiento y Productividad Personal (con IA)
----
+! Herramientas para la Gestión del Conocimiento y Productividad Personal (con IA)
+
 notion.so
 obsidian.md
 roam.research
@@ -488,8 +498,8 @@ any.do
 ticktick.com
 things3.com
 
-Educación y Aprendizaje de Idiomas (con IA)
----
+! Educación y Aprendizaje de Idiomas (con IA)
+
 anki.web
 ankiweb.net
 tinycards.duolingo.com
@@ -548,8 +558,8 @@ udemy.com
 skillshare.com
 brilliant.org
 
-Etiquetado de Datos y Anotación
----
+! Etiquetado de Datos y Anotación
+
 roboflow.com
 labelbox.com
 scale.com
@@ -572,8 +582,8 @@ surge.ai
 dataloop.ai
 kili-technology.com
 
-Optimización de Prompts y Gestión de Modelos
----
+! Optimización de Prompts y Gestión de Modelos
+
 humanloop.com
 prompt.ai
 promptbase.com
@@ -590,8 +600,8 @@ weave.wandb.ai
 agenta.ai
 promptly.ai
 
-Otros (Herramientas Especializadas y Directorios)
----
+! Otros (Herramientas Especializadas y Directorios)
+
 futurepedia.io
 aitoolsdirectory.com
 browse.ai
