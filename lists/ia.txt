@@ -1,3 +1,13 @@
+! Title: Lista Paginas IA 
+! Description: Bloqueo de  sitios IA
+! Homepage: https://github.com/entremetales/adguard_filters
+! License: MIT
+! Version: 1.0
+! Last modified: 2024-08-02
+! Expires: 1 day (update frequency)
+! Entries: ~50
+!
+! === Paginas De IA ===
 ||chat.openai.com^
 ||claude.ai^
 ||gemini.google.com^
