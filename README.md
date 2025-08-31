@@ -4,19 +4,19 @@ Listas personalizadas de bloqueo para AdGuard Home enfocadas en contenido argent
 ## 📋 Listas disponibles
 
 ### Lista Argentina
-**URL:** `https://raw.githubusercontent.com/TU-USUARIO/adguard-filters/main/lists/argentina.txt`
+**URL:** `https://raw.githubusercontent.com/entremetales/adguard-filters/main/lists/argentina.txt`
 - Bloquea publicidad en medios argentinos
 - E-commerce local
 - Trackers específicos de la región
 
 ### Lista Streaming
-**URL:** `https://raw.githubusercontent.com/TU-USUARIO/adguard-filters/main/lists/streaming.txt`
+**URL:** `https://raw.githubusercontent.com/entemetales/adguard-filters/main/lists/streaming.txt`
 - YouTube ads
 - Twitch ads
 - Plataformas de video generales
 
 ### Lista Redes Sociales
-**URL:** `https://raw.githubusercontent.com/TU-USUARIO/adguard-filters/main/lists/social-media.txt`
+**URL:** `https://raw.githubusercontent.com/entremetales/adguard-filters/main/lists/social-media.txt`
 - Facebook, Instagram, Twitter
 - TikTok, LinkedIn
 - Trackers de redes sociales
