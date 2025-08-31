@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/Entremetales/adguard-filters/main/lists/social
 ## 📊 Estadísticas
 - **Dominios bloqueados:** ~200
 - **Última actualización:** 2024-08-02
-- **Frecuencia de actualización:** Semanal
+- **Frecuencia de actualización:** Sin servicio hasta ocutbre  2025
 
 ## 🤝 Contribuir
 Si encuentras sitios que deberían estar bloqueados o reglas que causan problemas:
